@@ -1,6 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Wanna use the App directly? [Recommend for Normal Users]
+Open: [https://ykaraoke.vercel.app] with your browser and enjoy!
 
-## Getting Started
+<img width="1680" alt="Screenshot 2024-12-26 at 2 34 49 PM" src="https://github.com/user-attachments/assets/b85d7354-cff6-4750-b50a-9fba88d96443" />
+
+Note: Some videos are not displayed since they are not available for external site viewing.
+
+----------------------------------------
+
+## Getting Started [For Developers]
 
 First, run the development server:
 
